@@ -1,0 +1,9 @@
+*{font-size:30px; font-family:century;}
+
+body{background-color:lightblue;}
+
+.nav{background-color:black;}
+
+.nav a{color:white; text-decoration:none; margin:8%;}
+
+h1{background-color:black; color:white; width:50%; border-radius:30px;}
